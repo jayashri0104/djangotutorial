@@ -1,0 +1,22 @@
+
+
+ a {
+    color:rgb(219, 85, 116);
+}
+body {
+    background:url("landscape-7373484_1280.jpg") no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+p.centr{
+
+    text-align: center;
+    color: rgb(21, 158, 151);
+}
+p.large{
+
+    font-size: 300%;
+}
+form{
+    background-color: aqua;
+}
